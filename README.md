@@ -64,4 +64,4 @@ To build reliable, scalable, and user-friendly enterprise software that simplifi
 
 ## 📫 Connect
 
-- GitHub: https://github.com/asoftsolutions
+- GitHub: https://github.com/asoft-solutions
