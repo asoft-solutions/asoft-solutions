@@ -1,16 +1,67 @@
-## Hi there 👋
+# ASOFTSOLUTIONS
 
-<!--
-**asoft-solutions/asoft-solutions** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Building scalable and modern enterprise software solutions.
 
-Here are some ideas to get you started:
+## 🚀 About Us
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ASOFTSOLUTIONS focuses on developing enterprise-grade software applications including:
+
+- School ERP Systems
+- Management Platforms
+- Enterprise Web Applications
+- Multi-Tenant SaaS Solutions
+- Backend Architecture & APIs
+
+Our goal is to create scalable, secure, and maintainable software systems using modern technologies and best engineering practices.
+
+---
+
+## 🛠 Tech Stack
+
+### Backend
+- Java
+- Spring Boot
+- Node.js
+- NestJS
+- Hibernate
+- REST APIs
+
+### Frontend
+- React
+- Next.js
+- HTML
+- CSS
+- JavaScript
+
+### Database
+- PostgreSQL
+- MySQL
+- MongoDB
+
+### Dev Tools
+- Git & GitHub
+- Docker
+- Prisma ORM
+- Maven
+
+---
+
+## 📌 Current Focus
+
+- Enterprise School ERP Platform
+- Multi-Branch & Multi-Tenant Architecture
+- Admissions & Academic Management
+- Scalable Backend Systems
+- Modern Dashboard Interfaces
+
+---
+
+## 🌐 Vision
+
+To build reliable, scalable, and user-friendly enterprise software that simplifies management systems and improves operational efficiency.
+
+---
+
+## 📫 Connect
+
+- GitHub: https://github.com/asoftsolutions
